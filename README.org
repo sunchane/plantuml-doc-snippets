@@ -13,4 +13,6 @@ Snippets Files for VIM NVIM Editor, if your PlantUML file extension is .plantuml
 
   The coc-snippets for VIM is the best Environment.
 
+  [[./img/Tilix_with_Nvim_COC.jpg]]
+
 *** [[https://sunchane.myddns.me/2023/09/09/plantuml_stdlib_doc][PlantUML STDLIB DOC 整理]]
