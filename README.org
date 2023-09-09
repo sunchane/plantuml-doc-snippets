@@ -1,5 +1,5 @@
 # plantuml-doc-snippets
-* Plant &amp; STDLIB DOC VIM Snippets (Snipmate)
+* PlantUML STDLIB DOC VIM Snippets (Snipmate)
 Snippets Files for VIM NVIM Editor, if your PlantUML file extension is .plantuml, put *.snippets Files in VIM RUNTIMEPATH/snippets/plantuml.
 #+NAME: VIM_RUNTIMEPATH
 #+BEGIN_SRC vim
@@ -8,5 +8,9 @@ Snippets Files for VIM NVIM Editor, if your PlantUML file extension is .plantuml
 
 ** C4 Snippets
   Official C4 Depository offers .vscode Snippets, put it to your WORKSPACE (YOUR_PROJCET/.vscode).
-  I Modify many prifix wich "c4", in order to search Snippets more precisely.
+
+  I Modify many prifix with "c4", in order to search Snippets more precisely.
+
   The coc-snippets for VIM is the best Environment.
+
+*** [[https://sunchane.myddns.me/2023/09/09/plantuml_stdlib_doc][PlantUML STDLIB DOC 整理]]
