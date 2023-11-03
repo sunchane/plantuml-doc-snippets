@@ -15,4 +15,19 @@ Snippets Files for VIM NVIM Editor, if your PlantUML file extension is .plantuml
 
   [[./img/Tilix_with_Nvim_COC.jpg]]
 
-*** [[https://sunchane.myddns.me/2023/09/09/plantuml_stdlib_doc][PlantUML STDLIB DOC 整理]]
+** [[https://sunchane.myddns.me/2023/09/09/plantuml_stdlib_doc][PlantUML STDLIB DOC 整理]]
+      PlantUML 內建 ArchiMate 巨集，分享在 Vim(Neovim), Emacs
+      編輯器內使用經驗。
+** TOGAF DOC 整合環境
+      ArchiMate 提供製圖標準 TOGAF 則是核心理念。
+
+      開發庫中的 VIM_RUNTIMEPATH 中提供需要的檔案，請參考 vim 設定說明。
+
+      TOGAF 畢盡只是規格文件，規格文件首要目的即查詢並套用，目前使用
+      coc-snippets 來搜尋 (telescope 也是一種方式)，然後客製化 VIM 的 synctax
+      關鍵字顏色。
+
+      大致上如下圖：
+      [[./img/TOGAF_with_SNIPPETS.jpg]]
+
+
